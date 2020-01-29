@@ -1,0 +1,25 @@
+body{
+    width: 50%;
+    border: 20px solid silver;
+    margin: auto;
+    padding: 2%;
+}
+
+h2{
+    font-family: 'Bangers', cursive;
+}
+
+#data{
+    font-family: 'Lato', sans-serif;
+    color: #3b5380
+}
+
+#primeiro {
+    border-left: 10px solid silver;
+    padding: 1%;
+}
+
+#ultimo{
+    border-bottom: 2px solid silver;
+    padding-bottom: 1%;
+}

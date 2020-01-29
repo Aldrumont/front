@@ -1,0 +1,21 @@
+div {
+    height: 100%;
+    /* float: left; */
+}
+#header {
+    font-family: Cambria;
+    margin-left: 1.66%;
+    font-size: 23px;
+    text-transform: uppercase;
+    
+}
+#title {
+    border-bottom: 3px solid darkgrey;
+    width: 30%;
+}
+
+img{
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+}
